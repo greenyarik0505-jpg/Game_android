@@ -1,0 +1,6 @@
+{
+  "name": "Gravity Nomad",
+  "description": "2D научно-фантастическая физическая аркада с динамической гравитацией, модульными вездеходами и процедурными мирами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
