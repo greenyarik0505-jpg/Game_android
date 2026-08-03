@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gravity Orbit Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M 28 54 A 26 12 0 1 0 80 54 A 26 12 0 1 0 28 54" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF007A"
+        android:strokeWidth="1.5"
+        android:pathData="M 34 54 A 20 20 0 1 0 74 54 A 20 20 0 1 0 34 54" />
+    
+    <!-- Modular Vehicle Cockpit & Hull -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M38,46 L62,40 L74,52 L68,60 L36,60 Z" />
+    <path
+        android:fillColor="#101432"
+        android:pathData="M44,48 L58,44 L66,52 L48,52 Z" />
+    
+    <!-- Neon Core Light -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M52,50 L56,50 L56,54 L52,54 Z" />
+        
+    <!-- Vehicle Wheels / Antigrav Thrusters -->
+    <path
+        android:fillColor="#FF007A"
+        android:pathData="M34,62 A6,6 0 1,1 34,62.1 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,62 A3,3 0 1,1 34,62.1 Z" />
+
+    <path
+        android:fillColor="#FF007A"
+        android:pathData="M70,62 A6,6 0 1,1 70,62.1 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M70,62 A3,3 0 1,1 70,62.1 Z" />
+</vector>
